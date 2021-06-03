@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+  }
+  h2, h3{
+      font-family: 'Roboto', sans-serif;
+    }
+    p{
+      font-family: 'Roboto', sans-serif;
+    }
+    li{
+      font-family: 'Roboto', sans-serif;
+    }
+    h2{
+     text-align: center; 
+    }
+    ul li{
+      list-style-type: none;
+    }
+    .main__title {
+      padding: 20px 0;
+    }
